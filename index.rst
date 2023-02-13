@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to review tomato graft omics project data analysis code documentation
+Welcome to review scCESC project data analysis code documentation
 ===================================
 
-Code for analysis Duan yundan's tomato omincs data (RNA, metabolic, sugar) of grafting condition
+Code for analysis scCESC
 
 .. toctree::
    :caption: Contents:

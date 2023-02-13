@@ -1,10 +1,10 @@
 .. _codes:
 
 **********
-heatmap of sugar corr gene 
+Bcell
 **********
 
-sugar correlation genes expression heatmap
+Bcell analysis
 
 .. toctree::
     :hidden:

@@ -1,10 +1,10 @@
 .. _codes:
 
 **********
-heatmap of sugar corr gene 
+Epithelial
 **********
 
-sugar correlation genes expression heatmap
+Epithelial analysis
 
 .. toctree::
     :hidden:
