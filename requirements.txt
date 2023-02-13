@@ -1,0 +1,4 @@
+nbsphinx
+nbsphinx_link
+sphinx_book_theme
+IPython
