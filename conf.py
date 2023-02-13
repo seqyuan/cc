@@ -145,7 +145,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'scCESC.tex', 'scCESC Documentation',
-     'Zan Yuan, Yundan Duan', 'manual'),
+     'Xinyu Tong', 'manual'),
 ]
 
 
